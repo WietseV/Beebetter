@@ -1,8 +1,9 @@
+import News from "./News/page";
 
 export default function Home() {
   return (
-    <main className="">
-      
+    <main>
+      <News/>
     </main>
   )
 }
